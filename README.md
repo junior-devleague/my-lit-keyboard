@@ -70,7 +70,7 @@ Conditionals
 #### Step 5
 Style as needed in the styles.css file
 
-#### Stretch
+### Stretch
 1. Create a button that clears all the text in the `textarea`
 2. Create a button to have all the keys on the virtual keyboard light on and off.
 3. Create a button to have all the keys on the virutal keyboard light up and cycle through different colors.
